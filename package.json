@@ -1,0 +1,30 @@
+{
+  "name": "patika-pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsn2903/pcat.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Hasan Çelik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsn2903/pcat/issues"
+  },
+  "homepage": "https://github.com/hsn2903/pcat#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
